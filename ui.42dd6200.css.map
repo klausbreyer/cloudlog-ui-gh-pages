@@ -1,0 +1,1 @@
+{"version":3,"sources":["../scss/ui.scss"],"names":[],"mappings":"AAAA,GACE,aAAA,CACA","file":"ui.42dd6200.css","sourceRoot":"../public","sourcesContent":["h1 {\n  color: hotpink;\n  font-family: cursive;\n}\n"]}
